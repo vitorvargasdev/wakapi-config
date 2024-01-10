@@ -1,0 +1,1 @@
+cd ~/wakapi && ./wakapi -config config.yml & sleep 1 && echo "Waiting connection..." & sleep 3 && watch -n 1200 ~/wakapi/update.sh
