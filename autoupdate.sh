@@ -1,1 +1,0 @@
-watch -n 3600 ./update.sh
